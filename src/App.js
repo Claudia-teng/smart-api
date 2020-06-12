@@ -143,18 +143,3 @@ class App extends Component {
 }
 
 export default App;
-
-
-// Before Signout fixed
-// { route === 'home' 
-// ? <div>
-//     <Logo />
-//     <Rank />
-//     <ImageLinkForm onInputChange={this.onInputChange} onButtonSubmit={this.onButtonSubmit} />
-//     <FaceRecognition box={box} imageUrl={imageUrl}/>
-//   </div>
-// : ( route === 'signin'
-//     ? <SignIn onRouteChange={this.onRouteChange} />
-//     : <Register onRouteChange={this.onRouteChange} />
-//   )
-// }
