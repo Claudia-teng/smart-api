@@ -1,4 +1,4 @@
-Demo page: https://claudia-teng.github.io/robofriends/
+Demo page: https://smart-brain-claudia.herokuapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
